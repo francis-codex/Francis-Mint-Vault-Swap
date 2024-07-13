@@ -68,18 +68,18 @@ Available instructions are
 
 -   swap. The user initiates a swap by transferring their CPI tokens into the mint-vault program. This program then calls the purchase IX function to exchange a locked asset within the vault for SOL.
 
-### Transactions
+### Transactions Breakdown
 
 -   [init](https://explorer.solana.com/tx/cGZWoTWW2iihzAEBG2g2m3gdbkHU1NEidva2gsnJ79DtHjq4P8ND9J4etzQJeu7ptvGd4HxkZaBPHN19QjVuwjC?cluster=devnet)
 
--   [create collection](https://explorer.solana.com/tx/2wgL1f5k2YtBjDxYbJdFwceZKt18BUNK42XjWP1u3rWiLHT78yfvRMeQEGogozwJnSx2B8MNrUeJUJk9zPrmChQW?cluster=devnet)
+-   [collection create](https://explorer.solana.com/tx/2wgL1f5k2YtBjDxYbJdFwceZKt18BUNK42XjWP1u3rWiLHT78yfvRMeQEGogozwJnSx2B8MNrUeJUJk9zPrmChQW?cluster=devnet)
 
-    [created collection - EVhj14d1vKAP8ZAdgbkvCYqpcxtVAFYY2Z17sJhbM3k2 ](https://mpl-core-ui.vercel.app/explorer/collection/EVhj14d1vKAP8ZAdgbkvCYqpcxtVAFYY2Z17sJhbM3k2?env=devnet)
+    [collection created - EVhj14d1vKAP8ZAdgbkvCYqpcxtVAFYY2Z17sJhbM3k2 ](https://mpl-core-ui.vercel.app/explorer/collection/EVhj14d1vKAP8ZAdgbkvCYqpcxtVAFYY2Z17sJhbM3k2?env=devnet)
 
--   [mint asset](https://explorer.solana.com/tx/4G3PukKuFZQZim5dgDcGmvqXxWSLwyEqV9f9JnXqKerDsAX6y6C2mRLW2WX4rQ7PjptwX6qGCiXPJ58TRHX541jD?cluster=devnet)
+-   [asset mint](https://explorer.solana.com/tx/4G3PukKuFZQZim5dgDcGmvqXxWSLwyEqV9f9JnXqKerDsAX6y6C2mRLW2WX4rQ7PjptwX6qGCiXPJ58TRHX541jD?cluster=devnet)
 
-    [minted asset - CBMg87CRTWA1qenc7inasnnAQDLL5Tu5n8P7geFkiSkj](https://mpl-core-ui.vercel.app/explorer/CBMg87CRTWA1qenc7inasnnAQDLL5Tu5n8P7geFkiSkj?env=devnet)
+    [asset minted - CBMg87CRTWA1qenc7inasnnAQDLL5Tu5n8P7geFkiSkj](https://mpl-core-ui.vercel.app/explorer/CBMg87CRTWA1qenc7inasnnAQDLL5Tu5n8P7geFkiSkj?env=devnet)
 
--   [lock in vault](https://explorer.solana.com/tx/p4jBwenbZXP7e16FC1q5MTgEqfWv2fAbKDCCq4mxdbfh1y6xQu8vymxe1LyTo9pWAuLWV2wk7M8LrabcVX4Rtam?cluster=devnet)
+-   [vault lock](https://explorer.solana.com/tx/p4jBwenbZXP7e16FC1q5MTgEqfWv2fAbKDCCq4mxdbfh1y6xQu8vymxe1LyTo9pWAuLWV2wk7M8LrabcVX4Rtam?cluster=devnet)
 
 -   [swap](https://explorer.solana.com/tx/57F2V6mFSRMvMDzWTtomPK3XzgoX5TSnpywqnFVp88e4fRnrsCeTWupBbeweFEtJUbwfw9RfyxgoFLfBb3pPQuXN?cluster=devnet)
